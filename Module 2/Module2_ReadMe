@@ -1,0 +1,34 @@
+Module 2:  Data Preparation and Feature Engineering in ML	
+
+	Part 2.1:  Research Steps : Problem Formulation and desing cycle	
+
+	Part 2.2:  Data Collection  and Creation
+- Using Already Available data
+- Using Web Scraping- Static and Dynamic Webpages
+- Using API calls eg: Twitter, Reddit
+- Make your own data-set	
+	
+	Part 2.3:  Feature Enginnering
+- Data Preprocessing and
+- Exploratory Data Analysis
+- Data Visulization
+- Dimension Reduction
+- Feature Extraction : PCA, SVD
+- Feature Selection	
+
+	Part 2.4:  Python for Feature Engineering-
+Introduction to Pandas
+- Tabular data
+- Missing Values, Dealing with Outliers, Dropping Fields
+- Concatenating Rows and Columns
+- Catogorical variables
+- Grouping, Sorting, and Shuffling
+- Using Apply and Map
+- Data Visulization
+- Introduction to Matplotlib.
+- Building dummy graphs to get fimilar with lib	
+
+
+	
+	
+	Part 2.5:   Evaluation Parameters :  Accuracy, Precision, Recall
