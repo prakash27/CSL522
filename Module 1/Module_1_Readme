@@ -1,1 +1,16 @@
-hello 
+Module 1:  Introduction to  Machine Learning and Python	
+Part 1.1: Course Overview, Well posed learning problem Types of Machine Learning, Applications	
+Part 1.2: Introduction to Github, Python and Google CoLab	
+Part 1.3: Python Data Structures: Python Lists, Dictionaries, Sets & JSON, File Handling, Functions
+Part 1.4: Python – Libraries for Data Processing
+–  Handling numerical data
+– Numpy operations, Pandas	
+
+Hands On: 
+1_1_Introduction_to_Python.ipynb
+1_2_Python_MORE_Basics.ipynb
+1_3_Framework_Tutorial.ipynb
+
+
+
+Module 1 Assignment Due: 17-Aug 2020
