@@ -1,0 +1,25 @@
+Module 3: Traditional Coputational Techniques 
+
+Part 3.1:  Forcasting and Learning Theory , 
+- Prediciton Numerical value : Linear Regression 
+- Logistic Regression 
+- Multiclass classification 
+- Evaluation Parameters :  Accuracy, Precision, Recall 
+
+Part 3.2: k-Nearest Neighbors (k-NN) 
+
+Part 3.3: Classifier with Probability Theory - naïve Bayes 
+Probability Theory Review 
+
+Part 3.4: Tree Based ML - Decision Trees and Random Forest
+
+Part 3.5: Support Vector Machine (SVM)
+
+Part 3.6: Ensemble Machine Learning Approach
+- Bagging
+- Boosting: AdaBoost meta Algorithm 
+- stacking 
+
+Part 3.7 : Python for Building Regression and Classifier Models : 
+- Introduction to sklearn 
+- Building Linear, Logistic, Decision Tree and RF using sklearn "
