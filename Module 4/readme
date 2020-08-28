@@ -1,0 +1,18 @@
+Module 4:  Neural Network 
+Part 4.1: Introduction to  Artificial Neuron
+Part 4.2: Perceptrons : Changing weights, bias and thresholds
+Part 4.3: Neural Network
+- Feed Forward Fully Connected Neural Network  
+- Back Propogation Neural Network
+- Neural Network Hyperparameters
+Part 4.4 : Third generation of Neural Networks. : Deep NN
+ Building Blocks of DNN: 
+- Layers
+- Weights, bias, Vectorization 
+- Activation Fuctions
+- Loss function"
+Part 4.5: Python for  Neural Networks
+- Introduction to Tensorflow and Keras
+- Saving and Loading a Keras Neural Network
+- Early Stopping in Keras to Prevent Overfitting
+
