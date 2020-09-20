@@ -1,0 +1,11 @@
+Module 5: Deep Learning 
+ Part 5.1: A Deep Architecture: need, applications
+ Part 5.2: Hyperparameters in Deep Neural Networks
+  - Encoding, Layers
+  - Loss function, Learning Rate 
+  - Momentum and Optmization 
+  - Regulization and dropout 
+  - Batch Norms 
+ Part 5.3: Python for  Deep Neural Networks
+  – Keras for Deep NN
+  – Hyperparameters tuning in DNN
