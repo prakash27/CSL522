@@ -7,5 +7,6 @@ Module 5: Deep Learning
   - Regulization and dropout 
   - Batch Norms 
  Part 5.3: Python for  Deep Neural Networks
-  – Keras for Deep NN
+  – Need of Vectorization in DNN
+  - Image classification using Deep NN
   – Hyperparameters tuning in DNN
